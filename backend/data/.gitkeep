@@ -1,0 +1,2 @@
+# Placeholder to keep the SQLite data directory in the repo.
+# The database file itself (freshcheck.db) is gitignored.
